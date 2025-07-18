@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 import numpy as np
+from transformers import pipeline
 
 app = FastAPI()
 
