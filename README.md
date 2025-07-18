@@ -97,19 +97,4 @@ Build and deliver a microservice and minimal web client for binary sentiment ana
 - [ ] Screen recording (see below)
 - [ ] (Optional) Deployed version or Docker Hub image
 
-## (Optional) Screen Recording
-
-- Record a short video (under 3 minutes) showing:
-  - The app running
-  - Tech stack overview
-  - Build process
-  - Example prediction
-- Upload to YouTube (unlisted) and share the link here.
-
-## (Optional) Deployment
-
-- If deployed, add your link here.
-
----
-
 **Thank you for reviewing this project!**
